@@ -1,0 +1,6 @@
+2025-01-10 10:15:32 INFO User login successful user_id=42
+2025-01-10 10:16:01 WARNING Disk usage at 85%
+2025-01-10 10:17:45 ERROR Database connection failed
+2025-01-10 10:18:10 INFO File uploaded filename=report.pdf
+2025-01-10 10:19:02 ERROR Timeout while contacting API
+2025-01-10 10:20:15 INFO User logout user_id=42
